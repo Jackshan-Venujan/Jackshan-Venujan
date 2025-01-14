@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackshan-venujan&label=Profile%20views&color=0e75b6&style=flat" alt="jackshan-venujan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackshan-venujan" alt="jackshan-venujan" /></a> </p>
+
 
 - 🔭 I’m currently working on [AutoGradePro](https://github.com/Jackshan-Venujan/AutoGradePro_Server.git)
 
